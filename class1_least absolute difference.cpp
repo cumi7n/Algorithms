@@ -4,10 +4,10 @@
 using namespace std;
 
 int main(){
-	int n = 5; // Размер массива a
-	int m = 4; // Размер массива b
-	int a[5] = {1, 3, 5, 7, 9}; // Массив a
-	int b[4] = {2, 4, 6, 8}; // Массив b
+	int n = 5;
+	int m = 4; 
+	int a[5] = {1, 3, 5, 7, 9}; 
+	int b[4] = {2, 4, 6, 8}; 
 	
 	int i = 0 , j = 0, mn = INT_MAX;
 	
